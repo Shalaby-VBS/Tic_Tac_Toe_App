@@ -8,7 +8,6 @@ void main() {
 
 class XOGame extends StatelessWidget {
   const XOGame({super.key});
-
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
