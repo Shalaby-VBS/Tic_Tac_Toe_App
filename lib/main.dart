@@ -14,6 +14,7 @@ class XOGame extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       home: SplashScreen(),
+      
     );
   }
 }
